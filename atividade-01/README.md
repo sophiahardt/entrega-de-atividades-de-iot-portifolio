@@ -6,7 +6,7 @@
 
 Este repositório apresenta a entrega da atividade de IoT **“Vamos ligar o LED!”**, desenvolvida utilizando Arduino e simulada no Tinkercad.
 
-[![Simular no Tinkercad](https://img.shields.io/badge/Simular%20no-Tinkercad-orange?style=for-the-badge&logo=autodesk)](https://www.tinkercad.com/things/2bnN2aiysKi-projeto-ligar-led/editel?returnTo=https%3A%2F%2Fwww.tinkercad.com%2Fdashboard)
+[![Simular no Tinkercad](https://img.shields.io/badge/Simular%20no-Tinkercad-orange?style=for-the-badge&logo=autodesk)](https://www.tinkercad.com/things/2bnN2aiysKi-projeto-ligar-led)
 
 ## Descrição da atividade: Vamos ligar o LED!
 
