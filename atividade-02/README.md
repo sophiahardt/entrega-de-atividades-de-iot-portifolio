@@ -6,7 +6,7 @@
 
 Este repositório apresenta a entrega da atividade prática de IoT **“Controle de Microservo com Potenciômetro”**, desenvolvida utilizando Arduino e simulada no Tinkercad.
 
-[![Simular no Tinkercad](https://img.shields.io/badge/Simular%20no-Tinkercad-orange?style=for-the-badge&logo=autodesk)](https://www.tinkercad.com/things/aytHP2Hg5jz-controle-de-microservo-com-potenciometro/editel?returnTo=https%3A%2F%2Fwww.tinkercad.com%2Fdashboard)
+[![Simular no Tinkercad](https://img.shields.io/badge/Simular%20no-Tinkercad-orange?style=for-the-badge&logo=autodesk)](https://www.tinkercad.com/things/aytHP2Hg5jz-controle-de-microservo-com-potenciometro)
 
 ## Enunciado: Controle de Microservo com Potenciômetro
 
